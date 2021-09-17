@@ -72,7 +72,7 @@ public class Orange
     public static void main (String[] args)
     {
         // ecrire ici vos tests
-        System.out.println("Premier test Orange !");
+        System.out.println("Début premier test Orange !");
 
         // creation des instances de type Orange
         Orange o1 = new Orange();
